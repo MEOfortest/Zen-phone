@@ -7,10 +7,7 @@
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
-                <div class="photo">
-                <p class="img"><img src="{page.url}" alt="qwerty" /></p>
-                </div>
-                <div class="photo">
+                <img src="{page.url}" alt="qwerty" />
                     <h2>{page.title}</h2>
                     <p>{page.body}</p>
                     <p class="readmore">
@@ -18,7 +15,6 @@
                         Посмотреть все характеристики
                         </a>
                     </p>
-                </div>
             </div>
         {/each}
     </div>
@@ -33,6 +29,7 @@
         margin: 100 px auto;
         max-width: 1250px;
         padding: 0 20px;
+        background-color: grey;
     }
 
     .blogposts {
@@ -49,13 +46,5 @@
 
     .link {
         color: rgb(10,10,139);
-    }
-
-    .img {
-        text-align: center;
-    }
-
-    .photo {
-        display: inline-block;
     }
 </style>
