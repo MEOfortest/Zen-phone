@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/blog">Вернуться назад</a>
+    <a href="/gadgets">Вернуться назад</a>
     <slot />
 </div>
 
@@ -13,6 +13,6 @@
     a {
         border: 2px solid black;
         padding: 5px;
-        border-radius: 20%;
+        border-radius: 25%;
     }
 </style>

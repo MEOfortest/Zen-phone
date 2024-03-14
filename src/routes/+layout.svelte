@@ -41,12 +41,14 @@
     .container {
         max-width: 90%;
         margin: 50px auto;
+        text-align: center;
     }
 
     .nav-container {
         background-color: orange;
         border: 4px solid blue;
         height: 60px;
+        text-align: center;
     }
 
     .link {
