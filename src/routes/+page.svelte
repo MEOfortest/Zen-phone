@@ -36,7 +36,7 @@
     }
 
     .container {
-        max-width: 1400px;
+        max-width: 100%;
         margin: 50px 0 0 2.5rem;
     }
 
