@@ -3,12 +3,12 @@
 <img src="https://cdn2.hexlet.io/derivations/image/fill_webp/1020/480/eyJpZCI6ImY1NzBhMTE5NGQ0MTFkYjAyZWZmMzQ1MmYwYzc2Njk2LnBuZyIsInN0b3JhZ2UiOiJ5YV9zdG9yZSJ9?signature=a166b506117dc4c15c303d994f155eba70da64863f20a62e0d3d15ac4a0d7d8f" width="90%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
-    <p>Гарантия продавца / производителя &nbsp;&nbsp;&nbsp;&nbsp; 12 мес.</p>
+    <p>Гарантия продавца / производителя: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 12 мес.</p>
     <h1>Общие параметры</h1>
-    <p>Тип &nbsp;&nbsp;&nbsp;&nbsp; смартфон</p>
-    <p>Модель &nbsp;&nbsp;&nbsp;&nbsp; Apple iPhone 15 Pro Max</p>
-    <p>Код производителя &emsp;&emsp;&emsp;&emsp; [MU2Q3]
-    <p>Год релиза &emsp;&emsp;&emsp;&emsp; 2023</p>
+    <p>Тип: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; смартфон</p>
+    <p>Модель: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Apple iPhone 15 Pro Max</p>
+    <p>Код производителя: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [MU2Q3]
+    <p>Год релиза: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2023</p>
     <p>Внешний вид
     Цвет задней панели
      серый
