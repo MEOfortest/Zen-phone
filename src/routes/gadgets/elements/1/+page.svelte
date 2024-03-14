@@ -1,6 +1,6 @@
-<h1>Что такое NumPy и зачем он нужен?</h1>
+<h1>Apple iPhone 15 Pro Max</h1>
 
-<img src="https://cdn2.hexlet.io/derivations/image/fill_webp/1020/480/eyJpZCI6ImY1NzBhMTE5NGQ0MTFkYjAyZWZmMzQ1MmYwYzc2Njk2LnBuZyIsInN0b3JhZ2UiOiJ5YV9zdG9yZSJ9?signature=a166b506117dc4c15c303d994f155eba70da64863f20a62e0d3d15ac4a0d7d8f" width="90%" alt="Картинка 1">
+<img src="https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp" width="90%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>
@@ -39,6 +39,12 @@
 <p>Разрешение снимков: &ensp; 8000х6000</p>
 <p>Автофокусировка: &ensp; да</p>
 <p>Оптическая стабилизация: &ensp; да</p>
+
+<h1>Питание</h1>
+<p>Тип аккумулятора: &ensp; Li-ion</p>
+<p>Ёмкость аккумулятора: &ensp; 4441 мАч</p>
+<p>Быстрая зарядка: &ensp; да</p>
+<p>Беспроводная зарядка: &ensp; да</p>
 
 <style>
 
