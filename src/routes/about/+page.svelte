@@ -24,7 +24,7 @@
 
  p {
     font-size: 25px;
-    color: blue;
+    color: red;
     font-family: cursive;
  }
 
