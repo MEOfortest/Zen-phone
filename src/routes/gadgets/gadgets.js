@@ -7,9 +7,9 @@ export const gadgets = [
     },
     {
         id: 2,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Как создать классы и объекты в Python',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st1/fit/200/200/9a16afb3df8855011301ff626bb91799/fec706b31d02095ec0be9520385b7e9c336b6e42398b8731685a3dfa2c1b4b07.jpg.webp',
+        title: 'GIGABYTE G5 MF',
+        price: 'Цена: 84 999 ₽',
     },
     {
         id: 3,
