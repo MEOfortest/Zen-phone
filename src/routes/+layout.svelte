@@ -46,8 +46,11 @@
     .nav-container {
         border: 2px solid orange;
         height: 70px;
+        background-color: white;
+    }
+
+    .nav-links {
         font-size: 20px;
         max-width: 100%;
-        background-color: white;
     }
 </style>
