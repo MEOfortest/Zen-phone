@@ -1,9 +1,9 @@
 <svelte:head>
 
-<title>Блог</title>
+<title>Телефоны, ноутбуки, компьютеры</title>
 </svelte:head>
 <div class="container">
-    <h1>Мои статьи</h1>
+    <h1>Телефоны, ноутбуки, компьютеры</h1>
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
@@ -29,7 +29,6 @@
         margin: 100 px auto;
         max-width: 1250px;
         padding: 0 20px;
-        background-color: lightgray;
     }
 
     .blogposts {
