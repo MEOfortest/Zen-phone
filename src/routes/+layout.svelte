@@ -41,15 +41,21 @@
     .container {
         max-width: 90%;
         margin: 50px auto;
+        font-size: 20px;
     }
 
     .nav-container {
         border: 2px solid orange;
         height: 70px;
+        font-size: 20px;
         background-color: white;
     }
 
     .link {
+        font-size: 20px;
+    }
+
+    .nav-links {
         font-size: 20px;
     }
 </style>
