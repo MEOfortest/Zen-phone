@@ -3,13 +3,13 @@
 <title>Холодильники, пылесосы, микроволновки и чайники</title>
 </svelte:head>
 <div class="container">
-    <h1>Холодильники, пылесосы, микроволновки и чайники</h1>
+    <h1>Диваны, кресла, кровати и тумбочки</h1>
     <div class="blogposts">
         {#each items as page}
             <div class="post">
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
-                <p class="readmore">
+                <p class="allcharacteristics">
                     <a class="link" href={`/furniture/items/${page.id}`}>
                     Посмотреть все характеристики
                     </a>
@@ -37,7 +37,7 @@
     }
 
     .post {
-        border: 3px solid purple;
+        border: 3px solid green;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
     }

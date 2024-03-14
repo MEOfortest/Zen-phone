@@ -10,7 +10,7 @@
                 <img src="{page.url}" alt="qwerty" />
                     <h2>{page.title}</h2>
                     <p>{page.body}</p>
-                    <p class="readmore">
+                    <p class="allcharacteristics">
                         <a class="link" href={`/gadgets/elements/${page.id}`}>
                         Посмотреть все характеристики
                         </a>

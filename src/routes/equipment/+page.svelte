@@ -9,7 +9,7 @@
             <div class="post">
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
-                <p class="readmore">
+                <p class="allcharacteristics">
                     <a class="link" href={`/equipment/facilities/${page.id}`}>
                     Посмотреть все характеристики
                     </a>
