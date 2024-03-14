@@ -7,7 +7,7 @@
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
-                <img src="{page.url}" alt="qwerty" />
+                <p class="img"><img src="{page.url}" alt="qwerty" /></p>
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
@@ -47,7 +47,7 @@
         color: rgb(10,10,139);
     }
 
-    img {
+    .img {
         text-align: center;
     }
 </style>
