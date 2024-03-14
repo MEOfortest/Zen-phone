@@ -31,7 +31,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        text-align: left;
+        text-align: center;
         align-items: start;
     }
 

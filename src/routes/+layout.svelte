@@ -19,20 +19,20 @@
          href: "/",
         },
         {
-         title: "О нас",
-         href: "/about",
-        },
-        {
          title: "Гаджеты",
          href: "/gadgets",
         },
         {
-         title: "Новости",
-         href: "/news",
+         title: "Техника",
+         href: "/equipment",
         },
         {
-         title: "Контакты",
-         href: "/contacts",
+         title: "Мебель",
+         href: "/furniture",
+        },
+        {
+         title: "О нас",
+         href: "/about",
         },
     ];
 </script>

@@ -1,5 +1,5 @@
 <div class="container">
-    <a href="/news">Вернуться назад</a>
+    <a href="/equipment">Вернуться назад</a>
     <slot />
 </div>
 
