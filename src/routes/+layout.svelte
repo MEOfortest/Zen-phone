@@ -45,12 +45,14 @@
 
     .nav-container {
         background-color: orange;
-        border: blue;
+        border: 1px solid blue;
         height: 60px;
     }
 
     .link {
         font-size: 35px;
         font-family: cursive;
+        align-items: center;
+        text-align: center;
     }
 </style>
