@@ -12,14 +12,14 @@
 
 <p>Номер телефона: +7 (908) 164 09 44</p>
 
-<a href="https://www.google.com/maps?ll=56.272105, 43.927581" target="_blank">Открыть карту точки в Нижнем Новгороде</a><br>
-<a href="https://www.google.com/maps?ll=56.249136, 43.463826" target="_blank">Открыть карту точки в Дзержинске</a>
+<a href="https://www.google.com/maps?ll=56.272105, 43.927581" target="_blank">Открыть карту магазина в Нижнем Новгороде</a><br>
+<a href="https://www.google.com/maps?ll=56.249136, 43.463826" target="_blank">Открыть карту магазина в Дзержинске</a>
 
 <style>
  .VK, .Telegram {
     display: inline-block;
     padding: 25px;
-    border-radius: 50%;
+    border-radius: 75%;
  }
 
  p {
