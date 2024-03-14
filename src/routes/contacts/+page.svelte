@@ -1,28 +1,48 @@
-<p>Также вы можете связаться со мной следующими способами:</p>
+<svelte:head>
 
-<div class="contacts">
-    <div class="VK"><a href="https://vk.com/newzayper"><img src="https://img.icons8.com/?size=48&id=13977&format=png" width="120" height="120" alt="ВКонтакте"></a></div>
-    <div class="Telegram"><a href="https://t.me/@newzayper"><img src="https://img.icons8.com/?size=48&id=63306&format=png" width="120" height="120" alt="Телеграм"></a></div>
+<title>Холодильники, пылесосы, микроволновки и чайники</title>
+</svelte:head>
+<div class="container">
+    <h1>Холодильники, пылесосы, микроволновки и чайники</h1>
+    <div class="blogposts">
+        {#each blocks as page}
+            <div class="post">
+                <h2>{page.title}</h2>
+                <p>{page.body}</p>
+                <p class="readmore">
+                    <a class="link" href={`/equipment/facilities/${page.id}`}>
+                    Посмотреть все характеристики
+                    </a>
+                </p>
+            </div>
+        {/each}
+    </div>
 </div>
 
-<p>+7 (908) 164 09-44</p>
+<script>
+    import {blocks} from "./blocks";
+</script>
 
 <style>
-.VK {
-    margin-left: 30px;
-    display: inline-block;
-}
+    .container {
+        margin: 100 px auto;
+        max-width: 90%;
+        padding: 0 20px;
+    }
 
-.Telegram {
-    margin-left: 30px;
-    display: inline-block;
-    border-radius: 100%;
-}
+    .blogposts {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 80px;
+    }
 
-p {
-    font-style: oblique;
-    font-size: 20px;
-    color: blue;
- }
+    .post {
+        border: 3px solid purple;
+        padding: 10px;
+        box-shadow: 0 0 10px #eee;
+    }
 
+    .link {
+        color: rgb(10,10,139);
+    }
 </style>

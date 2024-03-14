@@ -10,7 +10,7 @@
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
-                    <a class="link" href={`/equipment/facilities/${page.id}`}>
+                    <a class="link" href={`/furniture/items/${page.id}`}>
                     Посмотреть все характеристики
                     </a>
                 </p>
