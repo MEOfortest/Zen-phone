@@ -1,3 +1,9 @@
 <p>Я многое узнал за время обучения в Коде Будущего! Я научился много новому и теперь многое умею</p>
 
 <p>Например, я могу сделать простенькую анимацию:</p>
+
+<div class="contacts">
+    <p id="text">Связаться со мной:</p>
+    <div class="VK"><a href="https://vk.com/newzayper"><img src="https://user-life.com/uploads/posts/2019-06/1560957172_vk.png" width="110" height="110" alt="ВКонтакте"></a></div>
+    <div class="Telegram"><a href="https://t.me/@newzayper"><img src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" width="110" height="110" alt="Телеграм"></a></div>
+</div>
