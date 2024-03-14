@@ -7,9 +7,8 @@
     <h1>Общие параметры</h1>
     <p>Тип &nbsp;&nbsp;&nbsp;&nbsp; смартфон</p>
     <p>Модель &nbsp;&nbsp;&nbsp;&nbsp; Apple iPhone 15 Pro Max</p>
-    <p>Код производителя               [MU2Q3]
-    Год релиза
-     2023
+    <p>Код производителя &emsp;&emsp;&emsp;&emsp; [MU2Q3]
+    <p>Год релиза &emsp;&emsp;&emsp;&emsp; 2023</p>
     Внешний вид
     Цвет задней панели
      серый
