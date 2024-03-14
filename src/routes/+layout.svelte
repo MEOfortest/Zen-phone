@@ -48,19 +48,9 @@
         background-color: orange;
         border: 4px solid blue;
         height: 60px;
-        text-align: center;
     }
 
     .link {
         font-family: cursive;
-        text-align: center;
-    }
-
-    a {
-        text-align: center;
-    }
-
-    .nav-links {
-        text-align: center;
     }
 </style>

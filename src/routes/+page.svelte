@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Павел Красин</title>
+<title>Zen-phone</title>
 </svelte:head>
 
 <div class="container">

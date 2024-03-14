@@ -12,7 +12,7 @@
                 <p>{page.body}</p>
                 <p class="readmore">
                     <a class="link" href={`/gadgets/elements/${page.id}`}>
-                    Все характеристики...
+                    Посмотреть все характеристики
                     </a>
                 </p>
             </div>
