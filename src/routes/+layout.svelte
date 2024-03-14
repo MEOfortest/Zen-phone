@@ -45,7 +45,7 @@
 
     .nav-container {
         background-color: orange;
-        border: 1px solid blue;
+        border: 4px solid blue;
         height: 60px;
     }
 

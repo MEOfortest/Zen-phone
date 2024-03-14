@@ -7,6 +7,7 @@
     <div class="blogposts">
         {#each routes as page}
             <div class="post">
+                <p>{page.url}</p>
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
