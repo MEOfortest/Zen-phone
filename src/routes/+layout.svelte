@@ -39,7 +39,7 @@
 
 <style>
     .container {
-        max-width: 100%;
+        max-width: 90%;
         margin: 50px auto;
     }
 
@@ -49,8 +49,7 @@
         background-color: white;
     }
 
-    .nav-links {
+    .link {
         font-size: 20px;
-        max-width: 100%;
     }
 </style>
