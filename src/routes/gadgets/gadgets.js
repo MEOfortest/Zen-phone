@@ -1,4 +1,4 @@
-export const routes = [
+export const gadgets = [
     {
         id: 1,
         url: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',

@@ -49,10 +49,16 @@
         height: 60px;
     }
 
-    a {
-        font-size: 35px;
+    .link {
         font-family: cursive;
-        align-items: center;
+        text-align: center;
+    }
+
+    a {
+        text-align: center;
+    }
+
+    .nav-links {
         text-align: center;
     }
 </style>

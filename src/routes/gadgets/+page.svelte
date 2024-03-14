@@ -5,14 +5,14 @@
 <div class="container">
     <h1>Мои статьи</h1>
     <div class="blogposts">
-        {#each routes as page}
+        {#each gadgets as page}
             <div class="post">
                 <img src="{page.url}" alt="qwerty" />
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
-                    <a class="link" href={`/blog/posts/${page.id}`}>
-                    Читать далее
+                    <a class="link" href={`/gadgets/elements/${page.id}`}>
+                    Все характеристики...
                     </a>
                 </p>
             </div>
@@ -21,7 +21,7 @@
 </div>
 
 <script>
-    import {routes} from "./routes";
+    import {gadgets} from "./gadgets";
 </script>
 
 <style>
