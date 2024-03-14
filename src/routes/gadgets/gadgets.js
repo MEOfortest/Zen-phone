@@ -1,13 +1,13 @@
 export const gadgets = [
     {
         id: 1,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x600',
         title: 'Apple iPhone 15 Pro Max',
         price: 'Цена: 151 199 ₽',
     },
     {
         id: 2,
-        preview: 'https://c.dns-shop.ru/thumb/st1/fit/200/200/9a16afb3df8855011301ff626bb91799/fec706b31d02095ec0be9520385b7e9c336b6e42398b8731685a3dfa2c1b4b07.jpg.webp',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/11483862/img_id4226676878487422135.png/600x600',
         title: 'GIGABYTE G5 MF',
         price: 'Цена: 84 999 ₽',
     },

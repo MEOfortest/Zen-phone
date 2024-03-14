@@ -1,6 +1,6 @@
 <h1>GIGABYTE G5 MF</h1>
 
-<img src="https://c.dns-shop.ru/thumb/st1/fit/200/200/9a16afb3df8855011301ff626bb91799/fec706b31d02095ec0be9520385b7e9c336b6e42398b8731685a3dfa2c1b4b07.jpg.webp" width="40%" alt="Картинка 1">
+<img src="https://avatars.mds.yandex.net/get-mpic/11483862/img_id4226676878487422135.png/600x600" width="40%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>
@@ -47,6 +47,7 @@
 <h1>Питание</h1>
 <p>Тип аккумулятора: &ensp; Li-Ion</p>
 <p>Ёмкость аккумулятора: &ensp; 54 Вт*ч</p>
+<p>Выходная мощность адаптера питания: &ensp; 150 Вт</p>
 
 <style>
 
