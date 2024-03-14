@@ -10,10 +10,10 @@
     <div class="Telegram"><a href="https://t.me/@newzayper"><img src="https://static.tildacdn.com/tild6166-6135-4331-a334-623264633331/telegram.png" width="130" height="130" alt="Телеграм"></a></div>
 </div>
 
-<a href="https://www.google.com/maps?ll=56.272105, 43.927581" target="_blank">Открыть карту точки в Нижнем Новгороде</a>
-<a href="https://www.google.com/maps?ll=56.249136, 43.463826" target="_blank">Открыть карту точки в Дзержинске</a>
-
 <p>Номер телефона: +7 (908) 164 09 44</p>
+
+<a href="https://www.google.com/maps?ll=56.272105, 43.927581" target="_blank">Открыть карту точки в Нижнем Новгороде</a><br>
+<a href="https://www.google.com/maps?ll=56.249136, 43.463826" target="_blank">Открыть карту точки в Дзержинске</a>
 
 <style>
  .VK, .Telegram {
@@ -26,5 +26,10 @@
     font-size: 25px;
     color: blue;
     font-family: cursive;
+ }
+
+ a {
+    color: brown;
+    text-decoration: underline;
  }
 </style>
