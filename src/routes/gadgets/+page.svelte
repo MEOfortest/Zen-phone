@@ -26,7 +26,7 @@
 
 <style>
     .container {
-        margin: 120 px auto;
+        margin: 150 px auto;
         max-width: 1300px;
         padding: 0 20px;
     }
