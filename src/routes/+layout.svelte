@@ -45,7 +45,9 @@
 
     .nav-container {
         border: 2px solid orange;
-        height: 50px;
+        height: 70px;
+        font-size: 20px;
+        max-width: 100%;
         background-color: white;
     }
 </style>
