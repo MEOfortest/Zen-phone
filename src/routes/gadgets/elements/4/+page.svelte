@@ -1,6 +1,6 @@
-<h1>Библиотека React: особенности, перспективы, ситуация на рынке труда</h1>
+<h1>Xiaomi Redmi Note 12</h1>
 
-<img src="https://cdn2.hexlet.io/derivations/image/fill_webp/1020/480/eyJpZCI6IjAxOTVjOGRmODBjMzA0MGNhMmU0MmJlZmY0NzQ3OTQ0LnBuZyIsInN0b3JhZ2UiOiJ5YV9zdG9yZSJ9?signature=107f6f00c04a6ef2ef0d9bc8dda368d6b1d9b945edd4dacaea99fb02258ca8ad" width="90%" alt="Картинка 1">
+<img src="https://c.dns-shop.ru/thumb/st1/fit/200/200/0aba4e0a999711202b091d92e6e86ca9/007a38f0440a0f364454389b002d7f317411c64f76dcca9bb5578bf1d62ecc4c.jpg.webp" width="90%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>

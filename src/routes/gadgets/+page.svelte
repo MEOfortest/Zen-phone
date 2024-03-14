@@ -7,9 +7,9 @@
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
-                <img src="{page.url}" alt="Preview" />
+                <img src="{page.preview}" alt="Preview" />
                     <h2>{page.title}</h2>
-                    <p>{page.body}</p>
+                    <p>{page.price}</p>
                     <p class="allcharacteristics">
                         <a class="link" href={`/gadgets/elements/${page.id}`}>
                         Посмотреть все характеристики
