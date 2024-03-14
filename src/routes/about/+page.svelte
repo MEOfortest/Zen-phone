@@ -12,6 +12,7 @@
  .VK, .Telegram {
     display: inline-block;
     padding: 25px;
+    border-radius: 50%;
  }
 
  p {

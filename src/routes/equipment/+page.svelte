@@ -7,6 +7,7 @@
     <div class="blogposts">
         {#each facilities as page}
             <div class="post">
+                <img src="{page.url}" alt="Preview" />
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="allcharacteristics">
