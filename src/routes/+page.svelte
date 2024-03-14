@@ -38,6 +38,8 @@
     .container {
         max-width: 1400px;
         margin: 50px 0 0 2.5rem;
+        text-align: center;
+        font-size: 25px;
     }
 
     .info h1 {

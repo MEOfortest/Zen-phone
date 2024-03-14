@@ -23,8 +23,8 @@
          href: "/about",
         },
         {
-         title: "Блог",
-         href: "/blog",
+         title: "Гаджеты",
+         href: "/gadgets",
         },
         {
          title: "Новости",
