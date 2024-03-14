@@ -7,14 +7,18 @@
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
+                <div class="photo">
                 <p class="img"><img src="{page.url}" alt="qwerty" /></p>
-                <h2>{page.title}</h2>
-                <p>{page.body}</p>
-                <p class="readmore">
-                    <a class="link" href={`/gadgets/elements/${page.id}`}>
-                    Посмотреть все характеристики
-                    </a>
-                </p>
+                </div>
+                <div class="photo">
+                    <h2>{page.title}</h2>
+                    <p>{page.body}</p>
+                    <p class="readmore">
+                        <a class="link" href={`/gadgets/elements/${page.id}`}>
+                        Посмотреть все характеристики
+                        </a>
+                    </p>
+                </div>
             </div>
         {/each}
     </div>
@@ -49,5 +53,9 @@
 
     .img {
         text-align: center;
+    }
+
+    .photo {
+        display: inline-block;
     }
 </style>
