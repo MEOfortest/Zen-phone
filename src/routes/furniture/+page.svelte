@@ -5,7 +5,7 @@
 <div class="container">
     <h1>Холодильники, пылесосы, микроволновки и чайники</h1>
     <div class="blogposts">
-        {#each blocks as page}
+        {#each items as page}
             <div class="post">
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
@@ -20,7 +20,7 @@
 </div>
 
 <script>
-    import {blocks} from "./blocks";
+    import {items} from "./items";
 </script>
 
 <style>

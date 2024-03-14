@@ -20,7 +20,7 @@
 </div>
 
 <script>
-    import {blocks} from "./blocks";
+    import {facilities} from "./facilities";
 </script>
 
 <style>

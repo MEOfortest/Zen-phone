@@ -1,4 +1,4 @@
-export const blocks = [
+export const items = [
     {
         id: 1,
         title: 'Apple начала собирать в Бразилии базовую модель линейки iPhone 15',
