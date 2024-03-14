@@ -11,7 +11,7 @@
                 <p>{page.body}</p>
                 <p class="readmore">
                     <a class="link" href={`/equipment/facilities/${page.id}`}>
-                    Подробнее...
+                    Посмотреть все характеристики
                     </a>
                 </p>
             </div>
@@ -37,7 +37,7 @@
     }
 
     .post {
-        border: 1px solid purple;
+        border: 3px solid purple;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
     }

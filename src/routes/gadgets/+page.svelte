@@ -26,7 +26,7 @@
 
 <style>
     .container {
-        margin: 100 px auto;
+        margin: 120 px auto;
         max-width: 1250px;
         padding: 0 20px;
     }
@@ -34,11 +34,11 @@
     .blogposts {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-gap: 30px;
+        grid-gap: 50px;
     }
 
     .post {
-        border: 1px solid red;
+        border: 3px solid red;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
     }

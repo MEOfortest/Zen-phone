@@ -11,7 +11,8 @@
     }
 
     a {
-        border: 1px solid black;
-        padding: 3px;
+        border: 2px solid black;
+        padding: 5px;
+        border-radius: 25%;
     }
 </style>
