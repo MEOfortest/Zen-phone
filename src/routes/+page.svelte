@@ -38,7 +38,6 @@
     .container {
         max-width: 1400px;
         margin: 50px 0 0 2.5rem;
-        background-color: grey;
     }
 
     .info h1 {
