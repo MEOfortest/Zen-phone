@@ -1,6 +1,6 @@
 <h1>Apple iPhone 15 Pro Max</h1>
 
-<img src="https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp" width="90%" alt="Картинка 1">
+<img src="https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp" width="30%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>
