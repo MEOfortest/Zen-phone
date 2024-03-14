@@ -44,8 +44,13 @@
     }
 
     .nav-container {
-        border: 2px solid orange;
-        height: 70px;
-        background-color: white;
+        background-color: orange;
+        border: blue;
+        height: 60px;
+    }
+
+    .link {
+        font-size: 35px;
+        font-family: cursive;
     }
 </style>
