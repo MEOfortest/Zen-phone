@@ -6,11 +6,12 @@
 
 <div class="contacts">
     <p id="text">Связаться с нашим менеджером:</p>
-    <div class="VK"><a href="https://vk.com/newzayper"><img src="https://user-life.com/uploads/posts/2019-06/1560957172_vk.png" width="130" height="130" alt="ВКонтакте"></a></div>
+    <div class="VK"><a href="https://vk.com/newzayper"><img src="https://logospng.org/download/vk/vk-4096.png" width="130" height="130" alt="ВКонтакте"></a></div>
     <div class="Telegram"><a href="https://t.me/@newzayper"><img src="https://static.tildacdn.com/tild6166-6135-4331-a334-623264633331/telegram.png" width="130" height="130" alt="Телеграм"></a></div>
 </div>
 
-<a href="https://www.google.com/maps?ll=48.8584,2.2945" target="_blank">Открыть карту Эйфелевой башни</a> <!-- Эйфелева башня, почему бы и нет? -->
+<a href="https://www.google.com/maps?ll=56.272105, 43.927581" target="_blank">Открыть карту точки в Нижнем Новгороде</a>
+<a href="https://www.google.com/maps?ll=56.249136, 43.463826" target="_blank">Открыть карту точки в Дзержинске</a>
 
 <p>Номер телефона: +7 (908) 164 09 44</p>
 
