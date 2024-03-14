@@ -27,14 +27,14 @@
 <style>
     .container {
         margin: 120 px auto;
-        max-width: 1250px;
+        max-width: 1300px;
         padding: 0 20px;
     }
 
     .blogposts {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-gap: 50px;
+        grid-gap: 80px;
     }
 
     .post {
