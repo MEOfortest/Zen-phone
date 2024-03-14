@@ -46,4 +46,8 @@
     .link {
         color: rgb(10,10,139);
     }
+
+    img {
+        text-align: center;
+    }
 </style>
