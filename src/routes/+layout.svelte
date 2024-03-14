@@ -41,11 +41,13 @@
     .container {
         max-width: 90%;
         margin: 50px auto;
+        text-align: center;
     }
 
     .nav-container {
         border: 2px solid orange;
         height: 70px;
         background-color: white;
+        text-align: center;
     }
 </style>
