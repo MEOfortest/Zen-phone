@@ -41,6 +41,7 @@
         border: 3px solid red;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
+        text-align: center;
     }
 
     .link {
