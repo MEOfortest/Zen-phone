@@ -49,7 +49,7 @@
         height: 60px;
     }
 
-    .link {
+    a {
         font-size: 35px;
         font-family: cursive;
         align-items: center;
