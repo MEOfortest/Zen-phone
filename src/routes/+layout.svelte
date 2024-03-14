@@ -1,6 +1,5 @@
 <nav>
     <div class="nav-container">
-        <a href="/" class="nav-logo" title="Back to Homepage">Павел Красин</a>
         <div class="nav-links">
             {#each nav as link} 
             <a href={link.href} class="link">{link.title}</a>
@@ -15,6 +14,10 @@
 
 <script>
     const nav = [
+        {
+         title: "Главная",
+         href: "/",
+        },
         {
          title: "О нас",
          href: "/about",
@@ -36,7 +39,7 @@
 
 <style>
     .container {
-        max-width: 1400px;
+        max-width: 100%;
         margin: 50px auto;
     }
 
