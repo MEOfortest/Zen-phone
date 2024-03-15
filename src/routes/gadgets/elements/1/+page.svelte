@@ -47,7 +47,7 @@
 <p>Быстрая зарядка: &ensp; есть</p>
 <p>Беспроводная зарядка: &ensp; есть</p>
 
-<button>По умолчанию</button>
+<button>Заказать</button>
 
 <style>
 
@@ -65,7 +65,7 @@ button {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
 }
