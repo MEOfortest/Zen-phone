@@ -45,7 +45,7 @@ export const gadgets = [
         id: 8,
         preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/6ecffbf38fe9930b4dd4e9e20b50b5fd/3cd66d87d590ef93853a270acdbaa8577d78f177e4aab719ac289098c541ab91.jpg.webp',
         title: 'MSI MEG Trident X2',
-        price: 'Цена: 289 999 ₽',
+        price: 'Цена: 216 499 ₽',
     },
     {
         id: 9,
