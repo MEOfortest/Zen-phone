@@ -10,12 +10,25 @@
 <p>Конструкция: &ensp; напольная</p>
 <p>Материал фасада: &ensp; ДСП</p>
 <p>Количество ящиков: &ensp; 2 шт.</p>
-
+<button>Заказать</button>
 <style>
 
 p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color: beige;
+}
+
+button {
+  background-color: #4CAF50;
+  border: 1px solid black;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 </style>

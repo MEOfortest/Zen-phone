@@ -43,11 +43,24 @@
 <p>Объём памяти (SSD): &ensp; 1 ТБ</p> 
 <p>Тип SSD диска: &ensp; M.2 PCle</p> 
 <p>Свободные слоты для накопителей: M.2 PCle 2280</p> 
- 
+<button>Заказать</button>
 <style> 
 p { 
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 20px; 
     color: beige; 
 } 
+
+button {
+  background-color: #4CAF50;
+  border: 1px solid black;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
