@@ -13,13 +13,13 @@ export const gadgets = [
     },
     {
         id: 3,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/11483862/img_id4226676878487422135.png/600x600',
         title: 'GIGABYTE G5 MF',
         price: 'Цена: 84 999 ₽',
     },
     {
         id: 4,
-        preview: 'https://avatars.mds.yandex.net/get-mpic/11520282/2a0000018d132f65bab40395ac2ba4aa356e/600x800',
+        preview: 'https://static.eldorado.ru/img1/p/b/20996300.jpg/resize/380x240/',
         title: 'ASUS Vivobook Go 15',
         price: 'Цена: 52 999 ₽',
     },
@@ -61,7 +61,7 @@ export const gadgets = [
     },
     {
         id: 11,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
+        preview: 'ARDOR GAMING RAGE H335',
         title: 'Что такое фреймворки и какие они бывают',
         price: 'Цена: 151 199 ₽',
     },
