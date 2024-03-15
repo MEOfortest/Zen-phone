@@ -1,6 +1,6 @@
 <h1>Apple iPhone 15 Pro Max</h1>
 
-<img src="https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x600" width="30%" alt="Картинка 1">
+<img src="https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x800" width="30%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>

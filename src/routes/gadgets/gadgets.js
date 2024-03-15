@@ -1,13 +1,13 @@
 export const gadgets = [
     {
         id: 1,
-        preview: 'https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x600',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x800',
         title: 'Apple iPhone 15 Pro Max',
         price: 'Цена: 151 199 ₽',
     },
     {
         id: 2,
-        preview: 'https://avatars.mds.yandex.net/get-mpic/1565610/img_id255731042958314900.jpeg/600x600',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/1565610/img_id255731042958314900.jpeg/600x800',
         title: 'GIGABYTE G5 MF',
         price: 'Цена: 84 999 ₽',
     },
@@ -31,9 +31,9 @@ export const gadgets = [
     },
     {
         id: 6,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Язык программирования JavaScript: где его используют и почему он популярен',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/12418417/img_id1038646106890039787.jpeg/600x800',
+        title: 'OnePlus 12',
+        price: 'Цена: 108 890 ₽',
     },
     {
         id: 7,
