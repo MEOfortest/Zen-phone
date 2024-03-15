@@ -25,26 +25,14 @@ export const facilities = [
     },
     {
         id: 5,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Midjourney научился генерировать одинаковых персонажей',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/8632723b1befd4d685eff221552f2dd0/ca67c28e665850249f587a8b32ed2b21fb23fd80af1571cd49469273c1b0d138.jpg.webp',
+        title: 'DEXP MB-70',
+        price: 'Цена: 4 499 ₽',
     },
     {
         id: 6,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: '«Яндекс Маркет» представил новую модель складского робота со встроенной нейросетью',
-        price: 'Цена: 151 199 ₽',
-    },
-    {
-        id: 7,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Apple начала собирать в Бразилии базовую модель линейки iPhone 15',
-        price: 'Цена: 151 199 ₽',
-    },
-    {
-        id: 8,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Microsoft добавила GPT-4 Turbo в бесплатную версию Copilot',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/88028db6a86759bf5864ae71a42ca317/cec642fee3f724b10e2cf1594102e12cbbdfc88157106c033cb3a7c81a0a470e.jpg.webp',
+        title: 'Samsung MS23J5133AT/BW',
+        price: 'Цена: 14 999 ₽',
     },
 ];
