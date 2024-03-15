@@ -49,9 +49,9 @@ export const gadgets = [
     },
     {
         id: 9,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Какие типы данных существуют в программировании?',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st1/fit/500/500/27b961191368c13bcfe10d64aa82afe2/e09f4dab6eceb0a67ee9e975bc032bd84f94fa26094c6a371328ad205147dabe.jpg.webp',
+        title: 'ARDOR GAMING NEO G17-I7ND315',
+        price: 'Цена: 108 999 ₽',
     },
     {
         id: 10,
@@ -69,6 +69,6 @@ export const gadgets = [
         id: 12,
         preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/f8ec79840b0af62660fb6ee945b75d25/24473dc4fa5547b4f55add60458260079a2337b0079ddab2190a872666885d58.jpg.webp',
         title: 'DEXP Atlas H418',
-        price: 'Цена: 151 199 ₽',
+        price: 'Цена: 28 999 ₽',
     },
 ];
