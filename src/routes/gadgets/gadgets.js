@@ -8,14 +8,14 @@ export const gadgets = [
     {
         id: 2,
         preview: 'https://avatars.mds.yandex.net/get-mpic/1565610/img_id255731042958314900.jpeg/600x800',
-        title: 'GIGABYTE G5 MF',
-        price: 'Цена: 84 999 ₽',
+        title: 'Xiaomi Redmi Note 12',
+        price: 'Цена: 15 999 ₽',
     },
     {
         id: 3,
         preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Какие типы данных существуют в программировании?',
-        price: 'Цена: 151 199 ₽',
+        title: 'GIGABYTE G5 MF',
+        price: 'Цена: 84 999 ₽',
     },
     {
         id: 4,

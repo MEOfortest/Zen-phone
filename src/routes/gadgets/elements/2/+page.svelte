@@ -1,4 +1,4 @@
-<h1>Samsung Galaxy S23 Ultra</h1> 
+<h1>Xiaomi Redmi Note 12</h1> 
  
 <img src="https://avatars.mds.yandex.net/get-mpic/1565610/img_id255731042958314900.jpeg/600x800" width="30%" alt="Картинка 1"> 
  

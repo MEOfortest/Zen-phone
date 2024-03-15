@@ -1,4 +1,4 @@
-<h1>Samsung Galaxy S23 Ultra</h1>
+<h1>OnePlus 12</h1>
 
 <img src="https://avatars.mds.yandex.net/get-mpic/4304169/img_id6195645024264002639.png/600x800" width="30%" alt="Картинка 1">
 
