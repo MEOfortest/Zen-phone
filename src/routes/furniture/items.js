@@ -13,7 +13,7 @@ export const items = [
     },
     {
         id: 3,
-        preview: 'https://www.nn.bestmebelshop.ru/upload/resize_cache/iblock/5ed/440_426_1cb3ed90bb4b099ee9292aa8dda3584d7/5ed20bda6c9e7d5bd615feed9f36ad5f.jpg',
+        preview: 'https://olmeko.ru/upload/resize_cache/iblock/889/ysvhehjqlsf7rw17p4npla83elnvfbb4/1100_750_1/porto_armchear_ocean_grey_v1.jpg',
         title: 'ПОРТО М / КРЕСЛО ДЛЯ ОТДЫХА',
         price: 'Цена: 15 360 ₽',
     },

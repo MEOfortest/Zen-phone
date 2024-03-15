@@ -1,6 +1,6 @@
 <h1>Диван-кровать 2-сп. Udel</h1>
 
-<img src="https://i3.stat01.com/2/5414/154132057/afacdb/1-2-jpg.jpg" width="40%" alt="Картинка 1">
+<img src="https://i3.stat01.com/2/5414/154132057/afacdb/1-2-jpg.jpg" width="50%" alt="Картинка 1">
 
 <h1>Характеристики</h1>
 <p>Ширина: &ensp; 148 см</p>

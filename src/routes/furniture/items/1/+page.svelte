@@ -1,6 +1,6 @@
 <h1>Dandy Euro 2.0 велюр Monolit сталь</h1>
 
-<img src="https://mnogomebeli.com/upload/iblock/7c7/gk0vdetvcqih62v5l18z81llpfulrgyn/DENDY-monolith_steel-_-22.jpg" width="40%" alt="Картинка 1">
+<img src="https://mnogomebeli.com/upload/iblock/7c7/gk0vdetvcqih62v5l18z81llpfulrgyn/DENDY-monolith_steel-_-22.jpg" width="50%" alt="Картинка 1">
 
 <h1>Характеристики</h1>
 <p>Ширина: &ensp; 235 см</p>
