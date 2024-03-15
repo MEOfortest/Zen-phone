@@ -7,21 +7,21 @@ export const items = [
     },
     {
         id: 2,
-        preview: 'https://cdn.laredoute.com/products/0/2/0/020529aae31586c8ab2f2b0b80357a6f.jpg?width=1200&dpr=1',
+        preview: 'https://i3.stat01.com/2/5414/154132057/afacdb/1-2-jpg.jpg',
         title: 'Диван-кровать 2-сп. Udel',
         price: 'Цена: 50 804 ₽',
     },
     {
         id: 3,
-        preview: 'https://olmeko.ru/upload/resize_cache/iblock/889/ysvhehjqlsf7rw17p4npla83elnvfbb4/1100_750_1/porto_armchear_ocean_grey_v1.jpg',
+        preview: 'https://www.nn.bestmebelshop.ru/upload/resize_cache/iblock/5ed/440_426_1cb3ed90bb4b099ee9292aa8dda3584d7/5ed20bda6c9e7d5bd615feed9f36ad5f.jpg',
         title: 'ПОРТО М / КРЕСЛО ДЛЯ ОТДЫХА',
         price: 'Цена: 15 360 ₽',
     },
     {
         id: 4,
         preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Облачный провайдер Serverspace запустил продажи в Бразилии',
-        price: 'Цена: 151 199 ₽',
+        title: 'Кресло Дельта 2 BMS',
+        price: 'Цена: 108 363 ₽',
     },
     {
         id: 5,

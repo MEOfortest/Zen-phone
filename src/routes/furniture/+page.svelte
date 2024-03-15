@@ -7,7 +7,7 @@
     <div class="blogposts">
         {#each items as page}
             <div class="post">
-                <img src="{page.preview}" width="50%" alt="Preview" />
+                <img src="{page.preview}" width="75%" alt="Preview" />
                 <h2>{page.title}</h2>
                 <p class="price">{page.price}</p>
                 <p class="allcharacteristics">
