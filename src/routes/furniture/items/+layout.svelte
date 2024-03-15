@@ -13,6 +13,7 @@
     a {
         border: 2px solid red;
         color: red;
+        padding: 5px;
         border-radius: 25%;
     }
 </style>

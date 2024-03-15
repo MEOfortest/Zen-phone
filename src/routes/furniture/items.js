@@ -13,9 +13,9 @@ export const items = [
     },
     {
         id: 3,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Cognition представила нейросеть Devin, которая умеет осуществлять полный цикл разработки ПО вместо инженера-программиста',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://olmeko.ru/upload/resize_cache/iblock/889/ysvhehjqlsf7rw17p4npla83elnvfbb4/1100_750_1/porto_armchear_ocean_grey_v1.jpg',
+        title: 'ПОРТО М / КРЕСЛО ДЛЯ ОТДЫХА',
+        price: 'Цена: 15 360 ₽',
     },
     {
         id: 4,
