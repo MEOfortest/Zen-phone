@@ -20,6 +20,8 @@
     </div>
 </div>
 
+<a href="/" title="Вернуться к началу" class="topbutton">^</a>
+
 <script>
     import {items} from "./items";
 </script>
@@ -52,5 +54,19 @@
         font-family: cursive;
     }
 
-
+    .topbutton {
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: orange;
+    color: red;
+    text-align: center;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    font-size: 60px;
+    border-radius: 100%;
+    cursor: pointer;
+}
 </style>
