@@ -55,15 +55,15 @@ export const gadgets = [
     },
     {
         id: 10,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Библиотека React: особенности, перспективы, ситуация на рынке труда',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/c43d4da32c14833273e79466eed0309c/a57f20aa62cac143f26536977df3a2b4b62a1f1100ac57a6437c20d8b2d1c9ec.jpg.webp',
+        title: 'Maibenben X525',
+        price: 'Цена: 86 999 ₽',
     },
     {
         id: 11,
         preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/c62aed678166bd86722a7f8b020cdf8a/eb49978ad54bae8716feea3b3a107a5b982c14924c8ce11589d6e5cb53a30ced.jpg',
         title: 'ARDOR GAMING RAGE H335',
-        price: 'Цена: 151 199 ₽',
+        price: 'Цена: 97 499 ₽',
     },
     {
         id: 12,
