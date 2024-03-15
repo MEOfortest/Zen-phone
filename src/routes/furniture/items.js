@@ -25,14 +25,14 @@ export const items = [
     },
     {
         id: 5,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Midjourney научился генерировать одинаковых персонажей',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/4401552/img_id292191990350412300.jpeg/600x800',
+        title: 'Тумба ИКЕА АЛЕКС',
+        price: 'Цена: 8 117 ₽',
     },
     {
         id: 6,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: '«Яндекс Маркет» представил новую модель складского робота со встроенной нейросетью',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://hoff.ru/upload/iblock/ac6/ac6d302da192d3a34d0b3f4f81f1fd09.jpg',
+        title: 'Тумба прикроватная Tango',
+        price: 'Цена: 5 999 ₽',
     },
 ];
