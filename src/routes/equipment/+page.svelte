@@ -1,9 +1,9 @@
 <svelte:head>
 
-<title>Холодильники, пылесосы, микроволновки и чайники</title>
+<title>Холодильники, пылесосы и микроволновки</title>
 </svelte:head>
 <div class="container">
-    <h1>Холодильники, пылесосы, микроволновки и чайники</h1>
+    <h1>Холодильники, пылесосы и микроволновки</h1>
     <div class="blogposts">
         {#each facilities as page}
             <div class="post">
