@@ -7,7 +7,7 @@
     <div class="blogposts">
         {#each gadgets as page}
             <div class="post">
-                <img src="{page.preview}" alt="Preview" />
+                <img src="{page.preview}" width="50" alt="Preview" />
                     <h2>{page.title}</h2>
                     <p>{page.price}</p>
                     <p class="allcharacteristics">
