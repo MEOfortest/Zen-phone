@@ -14,7 +14,7 @@
 <h1>Конфигурация</h1> 
 <p>Процессор: &ensp; Intel Core i3-12100</p> 
 <p>Материнская плата: &ensp; Intel H610</p> 
-<p>Оперативная память: &ensp; 8GB Silicon Power</p> 
+<p>Оперативная память: &ensp; 2x8GB Silicon Power</p> 
 <p>Видеокарта: &ensp; Intel UHD Graphics 730</p> 
 <p>Накопители SSD: &ensp; 500GB M.2</p> 
 <p>Охлаждение: &ensp; DEEPCOOL GAMMAXX</p> 

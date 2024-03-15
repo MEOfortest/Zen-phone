@@ -14,7 +14,7 @@
 <h1>Конфигурация</h1> 
 <p>Процессор: &ensp; Intel Core i7-13700</p> 
 <p>Материнская плата: &ensp; ASUS TUF GAMING Z790-PLUS WIFI</p> 
-<p>Оперативная память: &ensp; 16GB G.Skill Trident Z5 RGB 6000 MHz</p> 
+<p>Оперативная память: &ensp; 2x16GB G.Skill Trident Z5 RGB 6000 MHz</p> 
 <p>Видеокарта: &ensp; MSI GeForce RTX 4070 VENTUS 3X E OC 12GB</p> 
 <p>Накопители SSD: &ensp; 1TB M.2 NVMe MSI SPATIUM M450</p> 
 <p>Охлаждение: &ensp; DEEPCOOL CASTLE 360RGB V2</p> 

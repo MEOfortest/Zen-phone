@@ -14,7 +14,7 @@
 <h1>Конфигурация</h1> 
 <p>Процессор: &ensp; Intel Core i5-13400F</p> 
 <p>Материнская плата: &ensp; MSI B760 GAMING PLUS WIFI</p> 
-<p>Оперативная память: &ensp; 8GB Team Group T-Force Delta RGB 5200 MHz</p> 
+<p>Оперативная память: &ensp; 2x8GB Team Group T-Force Delta RGB 5200 MHz</p> 
 <p>Видеокарта: &ensp; MS GeForce RTX 4060</p> 
 <p>Накопители SSD: &ensp; 1TB M.2 NVMe MSI SPATIUM M450</p> 
 <p>Охлаждение: &ensp; DEEPCOOL GAMMAXX GT BK</p> 
