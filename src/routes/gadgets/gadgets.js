@@ -61,8 +61,8 @@ export const gadgets = [
     },
     {
         id: 11,
-        preview: 'ARDOR GAMING RAGE H335',
-        title: 'Что такое фреймворки и какие они бывают',
+        preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/c62aed678166bd86722a7f8b020cdf8a/eb49978ad54bae8716feea3b3a107a5b982c14924c8ce11589d6e5cb53a30ced.jpg',
+        title: 'ARDOR GAMING RAGE H335',
         price: 'Цена: 151 199 ₽',
     },
     {
