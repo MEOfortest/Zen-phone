@@ -37,9 +37,9 @@ export const gadgets = [
     },
     {
         id: 7,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
-        title: 'Что такое NumPy и зачем он нужен?',
-        price: 'Цена: 151 199 ₽',
+        preview: 'https://c.dns-shop.ru/thumb/st1/fit/500/500/33c55dd5bffd6e9275675f52a5a57e45/b5e46bf90676b09c2dbed0d37573311c61250cf3153ad6cde371be418b48b163.jpg.webp',
+        title: 'ARDOR GAMING EVO X050',
+        price: 'Цена: 201 999 ₽',
     },
     {
         id: 8,
