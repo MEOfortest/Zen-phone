@@ -20,7 +20,7 @@
     </div>
 </div>
 
-<a href="/" title="Вернуться к началу" class="topbutton">^</a>
+<a href="/furniture" title="Вернуться к началу" class="topbutton">^</a>
 
 <script>
     import {items} from "./items";
