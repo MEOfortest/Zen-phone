@@ -19,7 +19,7 @@ export const items = [
     },
     {
         id: 4,
-        preview: 'https://c.dns-shop.ru/thumb/st4/fit/200/200/aeec31b3145d343400c611f852f6e512/c293b49608500741b7ae16da5f0d30959fea350bd888f71176202c3ac717ed88.jpg.webp',
+        preview: 'https://www.nn.bestmebelshop.ru/upload/resize_cache/iblock/5ed/440_426_1cb3ed90bb4b099ee9292aa8dda3584d7/5ed20bda6c9e7d5bd615feed9f36ad5f.jpg',
         title: 'Кресло Дельта 2 BMS',
         price: 'Цена: 108 363 ₽',
     },
