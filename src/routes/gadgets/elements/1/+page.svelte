@@ -60,7 +60,7 @@ p {
 button {
   background-color: #4CAF50;
   border: 1px solid black;
-  color: white;
+  color: red;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
