@@ -11,8 +11,8 @@
     }
 
     a {
-        border: 2px solid black;
-        padding: 5px;
+        border: 2px solid red;
+        color: red;
         border-radius: 25%;
     }
 </style>

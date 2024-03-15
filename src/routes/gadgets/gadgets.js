@@ -1,7 +1,7 @@
 export const gadgets = [
     {
         id: 1,
-        preview: 'https://c.dns-shop.ru/thumb/st1/fit/200/200/84c2c08e683435b2b5707931a73bf02f/7f9749f9571c2d097ac38121545eaf585e1d0ae30aad7aae6ab83207e5996abd.jpg.webp',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/3918703/img_id4791423090957028892.jpeg/600x600',
         title: 'Apple iPhone 15 Pro Max',
         price: 'Цена: 151 199 ₽',
     },
