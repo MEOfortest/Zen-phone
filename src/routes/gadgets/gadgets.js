@@ -1,7 +1,7 @@
 export const gadgets = [
     {
         id: 1,
-        preview: 'https://basket-14.wbbasket.ru/vol2114/part211480/211480576/images/c246x328/1.jpg',
+        preview: 'https://img.mvideo.ru/Pdb/400205198b.jpg',
         title: 'Apple iPhone 15 Pro Max',
         price: 'Цена: 151 199 ₽',
     },
