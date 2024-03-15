@@ -1,6 +1,6 @@
 <h1>Samsung Galaxy S23 Ultra</h1>
 
-<img src="https://c.dns-shop.ru/thumb/st1/fit/200/200/5934a67b4e7728af5f31bb02ffb73bca/d724c257977ad0dea464f177f095470018e5c2f0f451402c7e5f984c4e56ebf6.jpg.webp" width="30%" alt="Картинка 1">
+<img src="https://avatars.mds.yandex.net/get-mpic/4304169/img_id6195645024264002639.png/600x800" width="30%" alt="Картинка 1">
 
 <h1>Заводские данные</h1>
 <p>Гарантия продавца/производителя: &ensp; 12 месяцев</p>

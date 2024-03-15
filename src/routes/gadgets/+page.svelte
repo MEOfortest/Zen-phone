@@ -9,7 +9,7 @@
             <div class="post">
                 <img src="{page.preview}" width="50%" alt="Preview" />
                     <h2>{page.title}</h2>
-                    <p>{page.price}</p>
+                    <p class="price">{page.price}</p>
                     <p class="allcharacteristics">
                         <a class="link" href={`/gadgets/elements/${page.id}`}>
                         Посмотреть все характеристики
@@ -46,5 +46,9 @@
 
     .link {
         color: rgb(10,10,139);
+    }
+
+    .price {
+        color: orange;
     }
 </style>

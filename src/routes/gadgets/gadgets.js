@@ -7,7 +7,7 @@ export const gadgets = [
     },
     {
         id: 2,
-        preview: 'https://avatars.mds.yandex.net/get-mpic/11483862/img_id4226676878487422135.png/600x600',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/1565610/img_id255731042958314900.jpeg/600x600',
         title: 'GIGABYTE G5 MF',
         price: 'Цена: 84 999 ₽',
     },
@@ -25,7 +25,7 @@ export const gadgets = [
     },
     {
         id: 5,
-        preview: 'https://c.dns-shop.ru/thumb/st1/fit/200/200/5934a67b4e7728af5f31bb02ffb73bca/d724c257977ad0dea464f177f095470018e5c2f0f451402c7e5f984c4e56ebf6.jpg.webp',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/4304169/img_id6195645024264002639.png/600x800',
         title: 'Samsung Galaxy S23 Ultra',
         price: 'Цена: 109 999 ₽',
     },
