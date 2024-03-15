@@ -50,7 +50,6 @@
 <p>Выходная мощность адаптера питания: &ensp; 150 Вт</p>
 
 <style>
-
 p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
