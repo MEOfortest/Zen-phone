@@ -1,47 +1,43 @@
-<h1>ARDOR GAMING RAGE H335</h1>
+<h1>DEXP Atlas H418</h1>
 
-<img src="https://c.dns-shop.ru/thumb/st4/fit/500/500/55eb814a23234819d67dfe8be48c0839/fc30681755498431587b5317c6ae0062eb5dde16dd738dd80bffeaec38e66c4a.jpg.webp" width="40%" alt="Картинка 1"> 
+<img src="https://c.dns-shop.ru/thumb/st4/fit/500/500/f8ec79840b0af62660fb6ee945b75d25/24473dc4fa5547b4f55add60458260079a2337b0079ddab2190a872666885d58.jpg.webp" width="40%" alt="Картинка 1"> 
  
 <h1>Заводские данные</h1> 
 <p>Гарантия продавца: &ensp; 36 месяцев</p> 
  
 <h1>Классификация</h1> 
 <p>Тип: &ensp; ПК</p> 
-<p>Модель: &ensp;ARDOR GAMING RAGE H335</p> 
-<p>Форм-фактор корпуса: &ensp; Mid-Tower</p> 
+<p>Модель: &ensp; DEXP Atlas H418</p> 
+<p>Форм-фактор корпуса: &ensp; Mini-Tower</p> 
 <p>Цвет корпуса: &ensp; чёрный</p> 
 
 <h1>Конфигурация</h1> 
-<p>Процессор: &ensp; Intel Core i5-13400F</p> 
-<p>Материнская плата: &ensp; MSI B760 GAMING PLUS WIFI</p> 
-<p>Оперативная память: &ensp; 8GB Team Group T-Force Delta RGB 5200 MHz</p> 
-<p>Видеокарта: &ensp; MS GeForce RTX 4060</p> 
-<p>Накопители SSD: &ensp; 1TB M.2 NVMe MSI SPATIUM M450</p> 
-<p>Охлаждение: &ensp; DEEPCOOL GAMMAXX GT BK</p> 
-<p>Блок питания: &ensp; DEEPCOOL PK650D 650W (80+ Bronze)</p> 
-<p>Корпус: &ensp; DEEPCOOL CK560</p> 
+<p>Процессор: &ensp; Intel Core i3-12100</p> 
+<p>Материнская плата: &ensp; Intel H610</p> 
+<p>Оперативная память: &ensp; 8GB Silicon Power</p> 
+<p>Видеокарта: &ensp; Intel UHD Graphics 730</p> 
+<p>Накопители SSD: &ensp; 500GB M.2</p> 
+<p>Охлаждение: &ensp; DEEPCOOL GAMMAXX</p> 
  
 <h1>Операционная система</h1> 
 <p>Операционная система: &ensp; нет</p> 
  
 <h1>Процессор</h1> 
-<p>Модель: &ensp; Intel Core i5-13400F</p> 
-<p>Общее количество ядер: &ensp; 10</p> 
-<p>Частота процессора: &ensp; 2.5 ГГц</p> 
+<p>Модель: &ensp; Intel Core i3-12100</p> 
+<p>Общее количество ядер: &ensp; 4</p> 
+<p>Частота процессора: &ensp; 3.3 ГГц</p> 
  
 <h1>Оперативная память</h1> 
-<p>Тип: &ensp; DDR5</p> 
-<p>Объём: &ensp; 16 ГБ</p> 
-<p>Частота: &ensp; 3200 МГц</p> 
+<p>Тип: &ensp; DDR4</p> 
+<p>Объём: &ensp; 8 ГБ</p> 
+<p>Частота памяти: &ensp; 2666 МГц</p> 
  
 <h1>Видеокарта</h1> 
-<p>Тип: &ensp; дискретная</p> 
-<p>Модель дискретной видеокарты: &ensp; GeForce RTX 4060</p> 
-<p>Тип видеопамяти: &ensp; GDDR6</p> 
-<p>Объём видеопамяти: &ensp; 8 ГБ</p> 
+<p>Тип: &ensp; встроенная</p> 
+<p>Модель встроенной видеокарты: &ensp; Intel UHD Graphics 730</p> 
  
 <h1>Накопители данных</h1> 
-<p>Объём памяти (SSD): &ensp; 1 ТБ</p> 
+<p>Объём памяти (SSD): &ensp; 500 ГБ</p> 
 <p>Тип SSD диска: &ensp; M.2 PCle</p> 
 <p>Свободные слоты для накопителей: M.2 PCle 2280</p> 
  

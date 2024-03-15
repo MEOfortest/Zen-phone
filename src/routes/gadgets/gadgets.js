@@ -67,8 +67,8 @@ export const gadgets = [
     },
     {
         id: 12,
-        preview: 'blob:https://web.telegram.org/aa984bf1-7817-42ff-9a64-c8e06f5e240a',
-        title: 'Язык программирования JavaScript: где его используют и почему он популярен',
+        preview: 'https://c.dns-shop.ru/thumb/st4/fit/500/500/f8ec79840b0af62660fb6ee945b75d25/24473dc4fa5547b4f55add60458260079a2337b0079ddab2190a872666885d58.jpg.webp',
+        title: 'DEXP Atlas H418',
         price: 'Цена: 151 199 ₽',
     },
 ];
