@@ -19,9 +19,9 @@ export const gadgets = [
     },
     {
         id: 4,
-        preview: 'https://c.dns-shop.ru/thumb/st1/fit/200/200/0aba4e0a999711202b091d92e6e86ca9/007a38f0440a0f364454389b002d7f317411c64f76dcca9bb5578bf1d62ecc4c.jpg.webp',
-        title: 'Xiaomi Redmi Note 12',
-        price: 'Цена: 15 999 ₽',
+        preview: 'https://avatars.mds.yandex.net/get-mpic/11520282/2a0000018d132f65bab40395ac2ba4aa356e/600x800',
+        title: 'ASUS Vivobook Go 15',
+        price: 'Цена: 52 999 ₽',
     },
     {
         id: 5,

@@ -49,6 +49,6 @@
     }
 
     .price {
-        color: orange;
+        font-family: cursive;
     }
 </style>
