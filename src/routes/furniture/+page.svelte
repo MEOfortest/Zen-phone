@@ -1,15 +1,15 @@
 <svelte:head>
 
-<title>Диваны, кресла, кровати и тумбочки</title>
+<title>Диваны, кресла и тумбочки</title>
 </svelte:head>
 <div class="container">
-    <h1>Диваны, кресла, кровати и тумбочки</h1>
+    <h1>Диваны, кресла и тумбочки</h1>
     <div class="blogposts">
         {#each items as page}
             <div class="post">
                 <img src="{page.preview}" alt="Preview" />
                 <h2>{page.title}</h2>
-                <p>{page.price}</p>
+                <p class="price">{page.price}</p>
                 <p class="allcharacteristics">
                     <a class="link" href={`/furniture/items/${page.id}`}>
                     Посмотреть все характеристики
@@ -41,9 +41,14 @@
         border: 3px solid green;
         padding: 10px;
         box-shadow: 0 0 10px #eee;
+        text-align: center;
     }
 
     .link {
         color: rgb(10,10,139);
+    }
+
+    .price {
+        font-family: cursive;
     }
 </style>
