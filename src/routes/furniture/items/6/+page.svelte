@@ -1,6 +1,6 @@
 <h1>Тумба прикроватная Tango</h1>
 
-<img src="https://hoff.ru/upload/iblock/ac6/ac6d302da192d3a34d0b3f4f81f1fd09.jpg" width="40%" alt="Картинка 1">
+<img src="https://hoff.ru/upload/iblock/ac6/ac6d302da192d3a34d0b3f4f81f1fd09.jpg" width="50%" alt="Картинка 1">
 
 <h1>Характеристики</h1>
 <p>Ширина: &ensp; 46 см</p>
